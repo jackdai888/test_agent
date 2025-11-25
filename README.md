@@ -104,23 +104,3 @@ result = agent.run_regression_test("验证已修复的登录问题")
 python test_first_vs_regression.py
 python test_regression.py
 ```
-
-## 🤝 贡献
-
-欢迎贡献代码！请遵循以下步骤：
-
-1. Fork 项目
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 开启 Pull Request
-
-## 📄 许可证
-
-本项目采用 MIT 许可证
-
----
-
-**维护者**: Appium Agent Team  
-**联系方式**: [相关联系方式]  
-**最后更新**: 2024-12-19
